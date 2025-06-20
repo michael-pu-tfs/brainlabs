@@ -1,1 +1,1 @@
-# brainlabs
+# GenAI app for marketing data
