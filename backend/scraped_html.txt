@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<html class="hydrated" data-uw-rm-lang="false" lang="en"><head>
+<!-- HASH: e168cf3d1c7c4e5b5126-->
+<!-- DEVICE: DESKTOP User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 -->
+
+
+
+
+
+<!--preconnect and prefetch for adobe-->
+
+
+<!--preconnect for omni events-->
+
+
+
+
+
+
+
+
+
+
+
+<title>Nalgene™ Self-Zeroing Buret Filler Kit</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body data-uw-rm-skl="" style="--closeImage: url(https://cdn.yellowmessenger.com/files/images/close.png);"><div aria-label="Quick Accessibility Options" class="uw-sl" data-uw-ignore-translate="true" data-uw-rm-ignore="true" role="region"></div>
+<div class="uwy userway_p5" data-uw-feature-ignore="true" data-uw-rm-ignore="true" style="background-color: transparent !important; overflow: initial !important;" title="Accessibility Menu"><div class="userway_buttons_wrapper"></div></div><div class="uw-s10-bottom-ruler-guide"></div><div class="uw-s10-right-ruler-guide"></div><div class="uw-s10-left-ruler-guide"></div><div class="uw-s10-reading-guide"><div class="uw-s10-reading-guide__arrow"></div></div><div aria-hidden="true" class="uw-s12-tooltip"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==> LOAD_HEADER_FOOTER=true -->
+<header class="header">
+<div class="globalHeader" data-aem-syndication-info="(in:en-in:anonymous:https-tf)" data-aem-syndication-timestamp="globalHeader: Fri, 28 Mar 2025 13:25:00 GMT" data-analytics-section="header" data-app-env="prod" data-env="prod" data-hash="786645072d6e34" data-hostname="www.thermofisher.com" data-optional-selectors="inlineCss,globalRoute" data-orig="tfpt-header-footer" data-site="tf" data-version="5.1.4" data-x-host="www.thermofisher.com" id="hfGlobalHeader">
+<!-- ID:  3746f9f6-bb31-4147-ae07-dd963840cbc2 -->
+<!-- Home metadata: ipac/en/in/home/content.json -->
+<!-- Meganav metadata: ipac/en/in/header/meganav/content.json -->
+<!-- Focus Areas metadata: all/en/focusAreas/content.json -->
+<!-- Display Type(User Type):  anonymous -->
+<!-- GLOBAL NGINX ROUTE -->
+<!-- STATIC ROUTE BASE: /store/global-header-footer-static -->
+<!-- ENV TYPE: prod -->
+<!-- performance-begin -->
+
+<!-- performance-begin -->
+
+
+<!-- Debug: path: /app/resources/tf/js/dist -->
+
+
+
+
+
+
+<!-- performance-begin -->
+
+<!-- Debug: path: /app/resources/tf/js/dist -->
+
+<!-- performance-begin -->
+
+
+<!-- performance-begin -->
+
+
+
+
+<!-- performance-begin -->
+
+<!-- performance-begin -->
+
+<!---- Interact Offers - Header banner ---->
+<div id="header-offer-bar">
+<div class="interactoffers">
+<div class="dynamic-offer" data-default-snippet="" data-placement-code="hb" data-placement-type="headerfooter" id="tf-headerfooter-hb" preloaded="false" preloaded-default="true">
+</div>
+</div>
+</div>
+<!-- performance-begin -->
+
+
+<div class="main-header-container">
+<!-- performance-begin -->
+
+<!-- Navigation hamburger and bar -->
+<div class="nav-container pragma-toggle-component" id="nav-container">
+<span class="sr-only">Hamburger Menu Button</span>
+<div class="menu hamburger-btn pragma-toggle" data-toggle="#nav-container,#full-bg" data-toggle-classes="open" data-upgraded=",PragmaToggle" id="hamburger-btn" tabindex="0">
+<span class="icon"></span>
+</div>
+<nav class="mega-nav" id="mega-nav">
+<span class="close pragma-toggle" data-toggle="#nav-container,#full-bg" data-toggle-classes="open" data-upgraded=",PragmaToggle"></span>
+<!-- SITE LOGO -->
+<span class="logo">
+<a href="/in/en/home.html" id="hfLifetechLogoLinkSideNav" rel="home">
+
+</a>
+</span>
+<div class="account-dd">
+<div class="account">
+<div class="cmp-p-ctaitem m--btn-primary m--block">
+<div class="cmp-ctaitem">
+<a class="cmp-ctaitem__anchor" href="/auth/initiate">
+<span class="cmp-ctaitem__text">Sign in</span>
+</a>
+</div>
+</div>
+<div class="create-account pt-l1 pb-l1 border-bottom">Don't have an account ?
+                    <a href="/auth/create-account">Create Account</a>
+</div>
+<div class="create-account">
+</div>
+</div>
+</div>
+<ul class="main-nav" data-analytics-section="top" id="primary-nav">
+<li class="main-nav-item pragma-toggle" data-analytics-parent="Products" data-analytics-section="top" data-toggle="#primary-link-1,nav" data-toggle-classes="open" data-upgraded=",PragmaToggle" id="primary-link-1" tabindex="0">
+<span class="arrow"></span>Products
+	<ul class="sub-nav" id="secondary-nav-1">
+<li id="secondary-link-1-1">
+<a data-analytics-parent="Products" data-analytics-section="top" data-analytics-text="Antibodies" href="/in/en/home/life-science/antibodies.html">
+			Antibodies
+	</a>
+</li>
+<li id="secondary-link-1-2">
+<a data-analytics-parent="Products" data-analytics-section="top" data-analytics-text="Cell Culture and Transfection" href="/in/en/home/life-science/cell-culture.html">
+			Cell Culture and Transfection
+	</a>
+</li>
+<li id="secondary-link-1-3">
+<a data-analytics-parent="Products" data-analytics-section="top" data-analytics-text="Chemicals" href="/in/en/home/chemicals.html">
+			Chemicals
+	</a>
+</li>
+<li id="secondary-link-1-4">
+<a data-analytics-parent="Products" data-analytics-section="top" data-analytics-text="Chromatography" href="/in/en/home/industrial/chromatography.html">
+			Chromatography
+	</a>
+</li>
+<li id="secondary-link-1-5">
+<a data-analytics-parent="Products" data-analytics-section="top" data-analytics-text="Electron Microscopes" href="/in/en/home/electron-microscopy.html">
+			Electron Microscopes
+	</a>
+</li>
+<li id="secondary-link-1-6">
+<a data-analytics-parent="Products" data-analytics-section="top" data-analytics-text="Lab Plasticware and Supplies" href="/in/en/home/life-science/lab-plasticware-supplies/nalgene-labware.html">
+			Lab Plasticware and Supplies
+	</a>
+</li>
+<li id="secondary-link-1-7">
+<a data-analytics-parent="Products" data-analytics-section="top" data-analytics-text="Lab Centrifuges" href="/in/en/home/life-science/lab-equipment/lab-centrifuges.html">
+			Lab Centrifuges
+	</a>
+</li>
+<li id="secondary-link-1-8">
+<a data-analytics-parent="Products" data-analytics-section="top" data-analytics-text="Lab Solutions" href="/in/en/home/lab-solutions.html">
+			Lab Solutions
+	</a>
+</li>
+<li id="secondary-link-1-9">
+<a data-analytics-parent="Products" data-analytics-section="top" data-analytics-text="Mass Spectrometers" href="/in/en/home/industrial/mass-spectrometry.html">
+			Mass Spectrometers
+	</a>
+</li>
+<li id="secondary-link-1-10">
+<a data-analytics-parent="Products" data-analytics-section="top" data-analytics-text="Next Generation Sequencers" href="/in/en/home/life-science/sequencing/next-generation-sequencing.html">
+			Next Generation Sequencers
+	</a>
+</li>
+<li>
+<span class="see-all">
+<a data-analytics-parent="Products" data-analytics-section="top" data-analytics-text="See all product categories" href="/in/en/home/order.html">
+				See all product categories
+				<span class="right-arrow"></span>
+</a>
+</span>
+</li>
+</ul>
+</li>
+<li class="main-nav-item pragma-toggle" data-analytics-parent="Applications" data-analytics-section="top" data-toggle="#primary-link-2,nav" data-toggle-classes="open" data-upgraded=",PragmaToggle" id="primary-link-2" tabindex="0">
+<span class="arrow"></span>Applications
+	<ul class="sub-nav" id="secondary-nav-2">
+<li id="secondary-link-2-1">
+<a data-analytics-parent="Applications" data-analytics-section="top" data-analytics-text="Brands" href="/in/en/home/brands.html">
+			Brands
+	</a>
+</li>
+<li id="secondary-link-2-2">
+<a data-analytics-parent="Applications" data-analytics-section="top" data-analytics-text="Industrial and Applied Sciences" href="/content/lifetech/global/en/home/industrial.html">
+			Industrial and Applied Sciences
+	</a>
+</li>
+<li id="secondary-link-2-3">
+<a data-analytics-parent="Applications" data-analytics-section="top" data-analytics-text="Food and Beverage" href="/content/lifetech/global/en/home/industrial/food-beverage.html">
+			Food and Beverage
+	</a>
+</li>
+<li id="secondary-link-2-4">
+<a data-analytics-parent="Applications" data-analytics-section="top" data-analytics-text="Forensics" href="/content/lifetech/global/en/home/industrial/forensics.html">
+			Forensics
+	</a>
+</li>
+<li id="secondary-link-2-5">
+<a data-analytics-parent="Applications" data-analytics-section="top" data-analytics-text="Lab Solutions" href="/content/lifetech/global/en/home/lab-solutions.html">
+			Lab Solutions
+	</a>
+</li>
+<li id="secondary-link-2-6">
+<a data-analytics-parent="Applications" data-analytics-section="top" data-analytics-text="Life Sciences" href="/content/lifetech/global/en/home/life-science.html">
+			Life Sciences
+	</a>
+</li>
+<li id="secondary-link-2-7">
+<a data-analytics-parent="Applications" data-analytics-section="top" data-analytics-text="Pharma and Biopharma" href="/content/lifetech/global/en/home/industrial/pharma-biopharma.html">
+			Pharma and Biopharma
+	</a>
+</li>
+<li id="secondary-link-2-8">
+<a data-analytics-parent="Applications" data-analytics-section="top" data-analytics-text="Biotechnology" href="/content/lifetech/global/en/home/biotech.html">
+			Biotechnology
+	</a>
+</li>
+<li id="secondary-link-2-9">
+<a data-analytics-parent="Applications" data-analytics-section="top" data-analytics-text="Clinical and Diagnostics" href="/content/lifetech/global/en/home/clinical.html">
+			Clinical and Diagnostics
+	</a>
+</li>
+<li id="secondary-link-2-10">
+<a data-analytics-parent="Applications" data-analytics-section="top" data-analytics-text="Digital Solutions" href="/in/en/home/digital-solutions.html">
+			Digital Solutions
+	</a>
+</li>
+<li>
+<span class="see-all">
+<a data-analytics-parent="Applications" data-analytics-section="top" data-analytics-text="See all applications" href="/in/en/home/applications-techniques.html">
+				See all applications
+				<span class="right-arrow"></span>
+</a>
+</span>
+</li>
+</ul>
+</li>
+<li class="main-nav-item pragma-toggle" data-analytics-parent="Services" data-analytics-section="top" data-toggle="#primary-link-3,nav" data-toggle-classes="open" data-upgraded=",PragmaToggle" id="primary-link-3" tabindex="0">
+<span class="arrow"></span>Services
+	<ul class="sub-nav" id="secondary-nav-3">
+<li id="secondary-link-3-1">
+<a data-analytics-parent="Services" data-analytics-section="top" data-analytics-text="Lab Instrument and Equipment Services" href="/content/lifetech/global/en/home/products-and-services/services/lab-instuments-equipment-services.html">
+			Lab Instrument and Equipment Services
+	</a>
+</li>
+<li id="secondary-link-3-2">
+<a data-analytics-parent="Services" data-analytics-section="top" data-analytics-text="Enterprise Services" href="/in/en/home/products-and-services/services/enterprise-services.html">
+			Enterprise Services
+	</a>
+</li>
+<li id="secondary-link-3-3">
+<a data-analytics-parent="Services" data-analytics-section="top" data-analytics-text="Custom Services" href="/in/en/home/products-and-services/services/custom-services.html">
+			Custom Services
+	</a>
+</li>
+<li id="secondary-link-3-4">
+<a data-analytics-parent="Services" data-analytics-section="top" data-analytics-text="Training Services" href="/in/en/home/products-and-services/services/training-services.html">
+			Training Services
+	</a>
+</li>
+<li id="secondary-link-3-5">
+<a data-analytics-parent="Services" data-analytics-section="top" data-analytics-text="Financial and Leasing Services" href="/in/en/home/products-and-services/services/financial-leasing-services.html">
+			Financial and Leasing Services
+	</a>
+</li>
+<li id="secondary-link-3-6">
+<a data-analytics-parent="Services" data-analytics-section="top" data-analytics-text="Enterprise Level Lab Informatics" href="/in/en/home/digital-solutions/lab-informatics.html">
+			Enterprise Level Lab Informatics
+	</a>
+</li>
+<li id="secondary-link-3-7">
+<a data-analytics-parent="Services" data-analytics-section="top" data-analytics-text="Partnering and Licensing Services" href="/content/lifetech/global/en/home/about-us/partnering-licensing.html">
+			Partnering and Licensing Services
+	</a>
+</li>
+<li id="secondary-link-3-8">
+<a data-analytics-parent="Services" data-analytics-section="top" data-analytics-text="360° CDMO and CRO Solutions" href="/in/en/home/products-and-services/services/crdmo.html">
+			360° CDMO and CRO Solutions
+	</a>
+</li>
+<li id="secondary-link-3-9">
+<a data-analytics-parent="Services" data-analytics-section="top" data-analytics-text="CDMO Services" href="/in/en/home/brands/patheon.html">
+			CDMO Services
+	</a>
+</li>
+<li id="secondary-link-3-10">
+<a data-analytics-parent="Services" data-analytics-section="top" data-analytics-text="CRO Services" href="https://www.ppd.com/">
+			CRO Services
+	</a>
+</li>
+<li id="secondary-link-3-11">
+<a data-analytics-parent="Services" data-analytics-section="top" data-analytics-text="Cell Biology Services" href="/content/lifetech/global/en/home/products-and-services/services/cell-biology-services.html">
+			Cell Biology Services
+	</a>
+</li>
+<li id="secondary-link-3-12">
+<a data-analytics-parent="Services" data-analytics-section="top" data-analytics-text="Food Safety Inspection Services" href="/in/en/home/industrial/food-beverage/food-weighing-inspection.html">
+			Food Safety Inspection Services
+	</a>
+</li>
+<li>
+<span class="see-all">
+<a data-analytics-parent="Services" data-analytics-section="top" data-analytics-text="See all services" href="/in/en/home/products-and-services/services.html">
+				See all services
+				<span class="right-arrow"></span>
+</a>
+</span>
+</li>
+</ul>
+</li>
+<li class="main-nav-item pragma-toggle" data-analytics-parent="Help and Support" data-analytics-section="top" data-toggle="#primary-link-4,nav" data-toggle-classes="open" data-upgraded=",PragmaToggle" id="primary-link-4" tabindex="0">
+<span class="arrow"></span>Help and Support
+	<ul class="sub-nav" id="secondary-nav-4">
+<li id="secondary-link-4-1">
+<a data-analytics-parent="Help and Support" data-analytics-section="top" data-analytics-text="Contact Us" href="/in/en/home/global/forms/contact-us.html">
+			Contact Us
+	</a>
+</li>
+<li id="secondary-link-4-2">
+<a data-analytics-parent="Help and Support" data-analytics-section="top" data-analytics-text="Product Documentation" href="/search/results?query=Manuals+%26+Protocols&amp;type=Manuals+%26+Protocols">
+			Product Documentation
+	</a>
+</li>
+<li id="secondary-link-4-3">
+<a data-analytics-parent="Help and Support" data-analytics-section="top" data-analytics-text="Knowledge Base and Product FAQs" href="/in/en/home/technical-resources/knowledgebase-faqs.html">
+			Knowledge Base and Product FAQs
+	</a>
+</li>
+<li id="secondary-link-4-4">
+<a data-analytics-parent="Help and Support" data-analytics-section="top" data-analytics-text="Learning Centers" href="/in/en/home/technical-resources/learning-centers.html">
+			Learning Centers
+	</a>
+</li>
+<li id="secondary-link-4-5">
+<a data-analytics-parent="Help and Support" data-analytics-section="top" data-analytics-text="Supply Center" href="/in/en/home/products-and-services/supply-center-support.html">
+			Supply Center
+	</a>
+</li>
+<li id="secondary-link-4-6">
+<a data-analytics-parent="Help and Support" data-analytics-section="top" data-analytics-text="eProcurement Solutions" href="/in/en/home/digital-solutions.html">
+			eProcurement Solutions
+	</a>
+</li>
+<li id="secondary-link-4-7">
+<a data-analytics-parent="Help and Support" data-analytics-section="top" data-analytics-text="Lab Instrument and Equipment Support" href="/in/en/home/products-and-services/services/lab-instuments-equipment-services.html">
+			Lab Instrument and Equipment Support
+	</a>
+</li>
+<li>
+<span class="see-all">
+<a data-analytics-parent="Help and Support" data-analytics-section="top" data-analytics-text="See all help and support topics" href="/in/en/home/support.html">
+				See all help and support topics
+				<span class="right-arrow"></span>
+</a>
+</span>
+</li>
+</ul>
+</li>
+<li class="main-nav-item pragma-toggle" data-analytics-parent="Popular" data-analytics-section="top" data-toggle="#primary-link-5,nav" data-toggle-classes="open" data-upgraded=",PragmaToggle" id="primary-link-5" tabindex="0">
+<span class="arrow"></span>Popular
+	<ul class="sub-nav" id="secondary-nav-5">
+<li class="popular" id="secondary-link-5-1">
+<a data-analytics-parent="Popular" data-analytics-section="top" data-analytics-text="TaqMan Real-Time PCR Assays" href="/in/en/home/life-science/pcr/real-time-pcr/real-time-pcr-assays.html">
+<div>
+<img alt="TaqMan Real-Time PCR Assays" class="popular-image" loading="lazy" src="/content/dam/LifeTech/global/home-page/2019/taqman-hr-meganav.jpg"/>
+</div>
+<div class="pl-12">TaqMan Real-Time PCR Assays</div>
+</a>
+</li>
+<li class="popular" id="secondary-link-5-2">
+<a data-analytics-parent="Popular" data-analytics-section="top" data-analytics-text="Antibodies" href="/in/en/home/life-science/antibodies.html">
+<div>
+<img alt="Antibodies" class="popular-image" loading="lazy" src="/content/dam/LifeTech/global/promotions/meganav/2017/01-Jan/popular2-175x115.gif"/>
+</div>
+<div class="pl-12">Antibodies</div>
+</a>
+</li>
+<li class="popular" id="secondary-link-5-3">
+<a data-analytics-parent="Popular" data-analytics-section="top" data-analytics-text="Oligos, Primers &amp; Probes" href="/in/en/home/life-science/oligonucleotides-primers-probes-genes">
+<div>
+<img alt="Oligos, Primers &amp; Probes" class="popular-image" loading="lazy" src="/content/dam/LifeTech/global/home-page/images/oligos-main-popular.jpg"/>
+</div>
+<div class="pl-12">Oligos, Primers &amp; Probes</div>
+</a>
+</li>
+<li class="popular" id="secondary-link-5-4">
+<a data-analytics-parent="Popular" data-analytics-section="top" data-analytics-text="GeneArt Gene Synthesis" href="/in/en/home/life-science/cloning/gene-synthesis/geneart-gene-synthesis.html">
+<div>
+<img alt="GeneArt Gene Synthesis" class="popular-image" loading="lazy" src="/content/dam/LifeTech/global/promotions/meganav/2017/01-Jan/popular4-175x115.jpg"/>
+</div>
+<div class="pl-12">GeneArt Gene Synthesis</div>
+</a>
+</li>
+<li class="popular" id="secondary-link-5-5">
+<a data-analytics-parent="Popular" data-analytics-section="top" data-analytics-text="Cell Culture Plastics" href="/in/en/home/life-science/cell-culture/cell-culture-plastics.html">
+<div>
+<img alt="Cell Culture Plastics" class="popular-image" loading="lazy" src="/content/dam/LifeTech/global/promotions/meganav/2017/01-Jan/popular5-175x115.jpg"/>
+</div>
+<div class="pl-12">Cell Culture Plastics</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="support">
+<li id="support-links-1">
+<a data-analytics-parent="mega-nav" data-analytics-section="top" data-analytics-text="Contact Us" href="/in/en/home/global/forms/contact-us.html">Contact Us</a>
+</li>
+<li id="support-links-2">
+<a data-analytics-parent="mega-nav" data-analytics-section="top" data-analytics-text="Quick Order" href="/store/v2/quick-order">Quick Order</a>
+</li>
+<li id="support-links-3">
+<a data-analytics-parent="mega-nav" data-analytics-section="top" data-analytics-text="Order Status and Tracking" href="/store/orders/solu">Order Status and Tracking</a>
+</li>
+<li id="support-links-4">
+<a data-analytics-parent="mega-nav" data-analytics-section="top" data-analytics-text="Documents and Certificates" href="/search/documents">Documents and Certificates</a>
+</li>
+</ul>
+<!-- CMGT DOMAIN: /order/catalog -->
+</nav>
+<!-- SITE LOGO -->
+<span class="logo">
+<a href="/in/en/home.html" id="hfLifetechLogoLink" rel="home">
+
+</a>
+</span>
+</div>
+<!-- performance-begin -->
+
+<div class="search-container">
+<div class="search-layout">
+<!-- performance-begin -->
+
+
+
+
+<div class="search">
+<div class="largeSearchBar" id="search-main">
+<div class="searchHeading">
+<p>Search
+                <span>Thermo Fisher Scientific</span>
+</p>
+</div>
+<div class="header_row_2 layout_cont_wrapper" id="searchModalBody">
+<div class="header_row_2 layout_cont_left" tabindex="0">
+<div id="focusAreaSelector"><div class="chosen-container chosen-container-single chosen-container-single-nosearch chosen-with-drop" id="focusAreaSelector" style="width: 100%;"><a class="chosen-single" tabindex="-1"><span>Search All</span><i class="selector-caret"></i></a><div class="chosen-drop" style="display: none;"><ul class="chosen-results"><li class="active-result result-selected" data-item-id="all-categories">Search All</li><li class="active-result" data-item-id="trial-catalog">Aspire Free Products</li><li class="group-result" data-item-id="Popular Product Areas">Popular Product Areas</li><li class="active-result group-option" data-item-id="taqman-assays">TaqMan Assays</li><li class="active-result group-option" data-item-id="primary-antibodies">Primary Antibodies</li><li class="active-result group-option" data-item-id="secondary-antibodies">Secondary Antibodies</li><li class="active-result group-option" data-item-id="elisa-kits">ELISA Kits</li><li class="active-result" data-item-id="all-documents-support">All Documents &amp; Support</li><li class="active-result" data-item-id="certificates">Certificates</li><li class="active-result" data-item-id="sds">SDS</li><li class="active-result" data-item-id="manuals-and-protocols">Manuals &amp; Protocols</li><li class="active-result" data-item-id="product-faqs">Product FAQs</li></ul></div></div></div>
+</div>
+<div class="header_row_2 layout_cont_right">
+</div>
+<div class="header_row_2 layout_cont_middle">
+<div class="general_search layout_cont_wrapper" id="generalSearch">
+
+</div>
+<span class="loading-wheel-sm hidden"></span>
+<div class="hidden" id="primarySearch">
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="global-commerce-bar-spacing"></div>
+</div>
+<input id="clientTranslations" type="hidden" value='{"search":"Search by catalog number, product name, keyword, application","searchAll":"Search All","searchButton":"Search","searchIn":"Search within ","recentSearch":"Recent searches","moreWaysToSearch":"More ways to search"}'/>
+<!-- Debug: path: /app/resources/tf/js/dist -->
+
+
+<!-- performance-begin -->
+
+</div>
+<span class="close" tabindex="0"></span>
+<span class="search-icon">
+
+</span>
+</div>
+<!-- performance-begin -->
+
+<div class="info-container" id="commerce-bar">
+<ul>
+<!-- performance-begin -->
+
+<li class="order-status" data-analytics-text="Order Status" data-util-index="1" id="order-status-1">
+<a class="user-utility-link cloud-button" href="/store/orders/solu">Order Status</a>
+</li>
+<!-- performance-begin -->
+
+<!-- performance-begin -->
+
+<li class="quick-order" data-analytics-text="Quick Order" data-util-index="4" id="quick-order">
+<a href="/store/v2/quick-order">
+			Quick Order
+		</a>
+</li>
+<!-- performance-begin -->
+
+<!-- performance-begin -->
+
+<li class="account pragma-toggle-component" data-analytics-text="Sign in" data-util-index="3" id="sign-in">
+<span class="down-caret-icon pragma-toggle" data-toggle="#sign-in,#full-bg" data-toggle-classes="open" data-upgraded=",PragmaToggle" id="sign-in-toggle"> Sign in </span>
+<!-- performance-begin -->
+
+<div class="account-dd">
+<div class="account">
+<div class="cmp-p-ctaitem m--btn-primary m--block">
+<div class="cmp-ctaitem">
+<a class="cmp-ctaitem__anchor" href="/auth/initiate">
+<span class="cmp-ctaitem__text">Sign in</span>
+</a>
+</div>
+</div>
+<div class="create-account pt-l1 pb-l1 border-bottom">Don't have an account ?
+                    <a href="/auth/create-account">Create Account</a>
+</div>
+<div class="create-account">
+<ul>
+<li class="loyalty-text"><a href="#"></a></li>
+<li class="points"><a href="#"></a></li>
+<li>
+<a href="/auth/initiate">Account</a>
+</li>
+<li>
+<a href="/store/orders/solu">Check Order Status</a>
+</li>
+<li>
+<a href="/auth/initiate">Custom Products &amp; Projects</a>
+</li>
+<li>
+<a href="/auth/initiate">Instrument Management</a>
+</li>
+</ul>
+<!-- CMGT DOMAIN: /order/catalog -->
+</div>
+</div>
+</div>
+<!-- performance-begin -->
+
+</li>
+<!-- performance-begin -->
+
+<!-- performance-begin -->
+
+<li class="cart" data-util-index="5">
+<a class="pragma-remote-request" data-remote-container="#cart-sidebar" data-remote-failure-url="/store/cart" data-remote-url="/store/v2/minicart" data-upgraded=",PragmaRemoteRequest" href="javascript:void(0)" id="cart-link">
+<span class="count"></span>
+
+</a>
+</li>
+</ul>
+<!-- performance-begin -->
+
+<div class="cart-dd pragma-toggle-component" id="cart-sidebar">
+</div>
+<!-- performance-begin -->
+
+</div>
+<!-- performance-begin -->
+
+<!-- Debug: path: /app/resources/tf/js/dist -->
+
+<!-- performance-begin -->
+
+</div>
+<!-- performance-begin -->
+
+<!-- Debug: path: /app/resources/tf/js/dist -->
+
+<!-- performance-begin -->
+
+
+<!-- performance-begin -->
+
+<!-- performance-end -->
+<!-- performance-begin -->
+
+<div class="full-bg" id="full-bg"></div>
+<div class="search-bg" id="search-bg"></div>
+<div class="dim-background"></div></div>
+</header>
+<div id="modal"></div>
+<div id="root"><div class="pdp-main"><div class="pdp-header"><div class="pdp-header__breadcrumbs-element-structure-container"><div class="pdp-breadcrumbs"><div><core-breadcrumb class="hydrated"><core-breadcrumb-item class="hydrated" divider="▸" text="Home" url="/"></core-breadcrumb-item><core-breadcrumb-item class="hydrated" divider="▸" text="Shop All Products" url="/in/en/home/order.html"></core-breadcrumb-item><core-breadcrumb-item class="hydrated" divider="▸" text="Burettes" url="/search/browse/category/us/en/90094145"></core-breadcrumb-item><core-breadcrumb-item class="hydrated" divider="▸" text="Buret Accessories" url="/search/browse/category/us/en/90094149"></core-breadcrumb-item><core-breadcrumb-item class="hydrated" lastitem=""><span class="pdp-breadcrumbs__product-title" slot="content">Nalgene™ Self-Zeroing Buret Filler Kit</span></core-breadcrumb-item></core-breadcrumb></div><div></div></div></div><div class="pdp-header-content row"><div class="pdp-images col-lg-3 col-md-12"><div class="pdp-images-sticky"><div class="pdp-copy-links"><div class="pdp-copy-links-icon-container"><core-tooltip alignment="start" class="hydrated" container="true" label="Share catalog number, name or link" placement="bottom" zindex="1000"><img alt="Share" class="pdp-copy-links-icon" data-uw-rm-alt="ALT" data-uw-rm-alt-original="Share" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8Y2lyY2xlIGN4PSIyMCIgY3k9IjIwIiByPSIyMCIgZmlsbD0iI0Y3RjdGNyIvPgogIDxwYXRoIGQ9Ik0yMS40MzQ4IDExLjU2NzRWMTUuMzA0M0gyNy43MDA4QzI4Ljg1MDUgMTUuMzA0MyAyOS43ODI2IDE2LjIzNzggMjkuNzgyNiAxNy4zODUxVjI5LjkxOTJDMjkuNzgyNiAzMS4wNjg0IDI4Ljg1MTIgMzIgMjcuNzAwOCAzMkgxMy4wODE4QzExLjkzMjEgMzIgMTEgMzEuMDY2NiAxMSAyOS45MTkyVjE3LjM4NTFDMTEgMTYuMjM1OSAxMS45MzE0IDE1LjMwNDMgMTMuMDgxOCAxNS4zMDQzSDE5LjM0NzhWMTEuNTY0TDE4LjE2OTMgMTIuNzQyNkMxNy43NjU1IDEzLjE0NjMgMTcuMTEwNyAxMy4xNDYxIDE2LjcwMDQgMTIuNzM1OEMxNi4yOTI5IDEyLjMyODMgMTYuMjk1MyAxMS42NjUyIDE2LjY5MzYgMTEuMjY2OUwxOS42NTg2IDguMzAxODlDMTkuODU5MyA4LjEwMTEzIDIwLjEyMjIgOC4wMDAyNSAyMC4zODYxIDhMMjAuMzk0MSA4LjAwMzEyQzIwLjY1OTEgOC4wMDM2OCAyMC45MjI2IDguMTAzODUgMjEuMTIwNyA4LjMwMTg5TDI0LjA4NTcgMTEuMjY2OUMyNC40ODk0IDExLjY3MDYgMjQuNDg5MiAxMi4zMjU0IDI0LjA3ODkgMTIuNzM1OEMyMy42NzE0IDEzLjE0MzMgMjMuMDA4MyAxMy4xNDA5IDIyLjYxIDEyLjc0MjZMMjEuNDM0OCAxMS41Njc0Wk0xOS4zNDc4IDE3LjM5MTNIMTMuMDg3VjI5LjkxM0gyNy42OTU3VjE3LjM5MTNIMjEuNDM0OFYyMS41NjY4QzIxLjQzNDggMjIuMTQyMiAyMC45NzE2IDIyLjYwODcgMjAuMzkxMyAyMi42MDg3QzE5LjgxNSAyMi42MDg3IDE5LjM0NzggMjIuMTQxNyAxOS4zNDc4IDIxLjU2NjhWMTcuMzkxM1pNMTYuMjE3NCAxNS4zMDQzVjE3LjM5MTNIMjQuNTY1MlYxNS4zMDQzSDE2LjIxNzRaTTE5LjM0NzggMTUuMzA0M0gyMS40MzQ4VjE3LjM5MTNIMTkuMzQ3OFYxNS4zMDQzWiIgZmlsbD0iIzFCMUIxRCIvPgo8L3N2Zz4K" style="visibility: visible;"/></core-tooltip></div><div class="pdp-copy-links-context-menu" style="top: 214px; left: 88px; display: none;"><core-contextmenu class="hydrated" open="false"><core-contextmenu-item class="no-active hydrated"><div class="context-menu-item-content" slot="content"><div class="item-icon"></div><div class="item-label">Copy product name</div></div></core-contextmenu-item><core-contextmenu-item class="no-active hydrated"><div class="context-menu-item-content" slot="content"><div class="item-icon"></div><div class="item-label">Copy catalog number</div></div></core-contextmenu-item><core-contextmenu-item class="no-active hydrated"><div class="context-menu-item-content" slot="content"><div class="item-icon"></div><div class="item-label">Copy catalog number and product name</div></div></core-contextmenu-item><core-contextmenu-item class="no-active hydrated"><div class="context-menu-item-content" slot="content"><div class="item-icon"><span class="icon-16-link-mono"></span></div><div class="item-label">Copy link</div></div></core-contextmenu-item></core-contextmenu></div></div><div class="pdp-images-inner"><div class="pdp-images-panel has-slider"><img alt="Nalgene&amp;trade; Self-Zeroing Buret Filler Kit" class="pdp-item-image" data-testid="item-image" src="/TFS-Assets/CCG/Thermo-Scientific/product-images/19-1211232-03860-STD-00.png-650.jpg"/><div class="pdp-image-slider"><div class="pdp-image-slider-scrollable"><div class="pdp-image-slider-overflow" style="width:240px"><div class="pdp-item-image-thumbnail"><img alt="Nalgene&amp;trade; Self-Zeroing Buret Filler Kit" decoding="auto" src="/TFS-Assets/CCG/Thermo-Scientific/product-images/19-1211232-03860-STD-00.png-150.jpg"/></div><div class="pdp-item-image-thumbnail"><img alt="Nalgene&amp;trade; Self-Zeroing Buret Filler Kit" decoding="auto" src="/TFS-Assets/CCG/Thermo-Scientific/product-images/19-1211232-03860-STD-01.png-150.jpg"/></div><div class="pdp-item-image-thumbnail"><img alt="Nalgene&amp;trade; Self-Zeroing Buret Filler Kit" decoding="auto" src="/TFS-Assets/CCG/Thermo-Scientific/product-images/19-1211232-03860-STD-02.png-150.jpg"/></div></div></div></div></div></div></div></div><div class="pdp-title-and-product-selector col-lg-6 col-md-12"><div class="pdp-title"><div class="umbrella-brand">Thermo Scientific™</div><h1 role="heading">Nalgene™ Self-Zeroing Buret Filler Kit</h1><div class="short-description">Save time and increase convenience. This filler kit converts any conventional glass or plastic 25mL or 50mL buret into an automatic-filling, self-zeroing buret.</div></div><div class="pdp-product-selector"><div class="pdp-product-selector__icons-options-container"><div class="pdp-product-selector__contact-us-popup"><span class="pdp-product-selector__contact-us-text">Have Questions?</span><div class="pdp-contact-us"><div><div></div></div></div></div></div><div class="pdp-button-product-selector"><div class="pdp-sku-differentiator"><div class="pdp-sku-differentiator-header"><div class="header-label">For Use With (Equipment):</div></div><div class="pdp-chip-container" data-testid="pdp-single-chip-container"><span>25 or 50 mL Burette</span></div></div></div></div></div><div class="pdp-commerce-box col-lg-3 col-md-12"><div class="commerce-box-inner"><div class="pdp-card"><div class="pdp-commerce-box-content" slot="content"><div class="pdp-commerce-box--first-row"><span class="pdp-commerce-box--first-row--catalog-number-wrapper"><span class="pdp-commerce-box--catalog-number">Catalog number<!-- --> </span><span class="pdp-commerce-box--catalog-number-value">3645-2550</span></span><div data-testid="favorites-component"><span class="pdp-favorites-icon" data-testid="favorites-icon"><core-tooltip alignment="end" class="hydrated" label="Your favorites are now located within Lists. Select to save this product to a list." placement="bottom"><span class="icon-24-rating-mono"></span></core-tooltip></span></div></div><div class="pdp-divider"></div><div class="pdp-price"><span class="pdp-price__price-label">Price (INR)</span><span class="pdp-price__productSize">/ Case of 4</span><div> - </div><core-button arialabel="" class="hydrated" fullspace="true" href="" size="medium" type="button" variant="primary"><span slot="content">Request A Quote</span></core-button></div><div class="pdp-divider"></div><div class="pdp-ordering-attributes"><div class="pdp-ordering-attribute"><div class="pdp-ordering-attribute__label">For Use With (Equipment):</div><div class="pdp-ordering-attribute__value">25 or 50 mL Burette</div></div></div></div></div><div class="pdp-recurring-order"></div><div class="pdp-custom-forms"></div></div></div></div></div><div class="pdp-details"><div class="pdp-nav" style="top: 112px;"><core-navigationbar class="hydrated" variant="horizontal"><core-navigationbar-item class="hydrated" href="/" label="Product Overview" selected="" slot="nav-item" target="_top" variant="horizontal"></core-navigationbar-item><core-navigationbar-item class="hydrated" href="/" label="Documents" selected="false" slot="nav-item" target="_top" variant="horizontal"></core-navigationbar-item></core-navigationbar></div><div class="pdp-nav-containers"><div class="pdp-nav-container pdp-product-overview row" id="productOverview"><div class="pdp-product-description col-md-12 col-lg-7"><div class="pdp-product-description-inner" id="product-description"><p>Save time and increase convenience. The Thermo Scientific™ Nalgene™ Self-Zeroing Buret Filler Kit converts any conventional glass or plastic 25mL or 50mL buret into an automatic-filling, self-zeroing buret. Avoid messy spills from manual fi</p></div><div class="pdp-product-description-inner"><p><b>Operating Instructions:</b></p><p>The polypropylene fill tube connects to the end of the transfer tubing and is inserted into the mouth of the buret using the provided adapter. Adjust the fill tube tip so it is just above the zero mark of your buret. Squeeze the bottle to fill the buret above the zero mark. When you release the squeeze on the bottle, the excess titrant will be drawn back into the reservoir bottle leaving the titrant level in the buret at the zero line.</p><p><b>Includes:</b></p><ul><li>1000mL low-density polyethylene squeeze bottle</li><li>4′ length (1.2m) of clear, flexible PVC tubing</li><li>Fill tube</li><li>Adapter</li><li>Closure for reagent bottle.</li></ul>Buret not included.<p></p><p></p></div><div class="pdp-product-description-inner pdp-product-description-disclaimer">Buret not included</div></div><div class="col-lg-5 col-md-12"><div class="pdp-specifications"><div class="pdp-card pdp-specifications-card nopadding"><div class="pdp-specifications__wrapper" slot="content"><div class="pdp-specifications__title"><span class="pdp-specifications__text">Specifications</span></div><div class="pdp-specification-row"><span class="pdp-specification-row__name">For Use With (Equipment)</span><span class="pdp-specification-row__value">25 or 50 mL Burette</span></div><div class="pdp-specification-row"><span class="pdp-specification-row__name">Material</span><span class="pdp-specification-row__value">LDPE</span></div><div class="pdp-specification-row"><span class="pdp-specification-row__name">No. per Pack</span><span class="pdp-specification-row__value">1</span></div><div class="pdp-specification-row"><span class="pdp-specification-row__name">No. per Case</span><span class="pdp-specification-row__value">4</span></div><div class="pdp-specification-row"><span class="pdp-specification-row__name">Includes</span><span class="pdp-specification-row__value">1000 mL Squeeze Bottle, 4 ft. PVC Tubing, Fill Tube, Adapter and Closure</span></div><div class="pdp-specification-row"><span class="pdp-specification-row__name">Type</span><span class="pdp-specification-row__value">Buret Filler Kit</span></div><div class="pdp-specification-row"><span class="pdp-specification-row__name">Unit Size</span><span class="pdp-specification-row__value">Case of 4</span></div></div></div></div><div class="pdp-content-pod"><div class="pdp-content-pod-item"><div slot="content">
+<!-- Adding of dragdropClass for drag/drop  -->
+<div class="image" id="cq-textimage-jsp-820db544-1e5b-47c6-af15-bdd1e3cb6925SnippetParsystextimage_fdaf">
+<a href="/in/en/home/life-science/lab-plasticware-supplies/reusable-plasticware/burets.html">
+<div class="image-container">
+<picture>
+<source media="(min-width: 1px)" srcset="https://www.thermofisher.com/in/en/syndicated-content/snippets/pfp/pods/laboratory-plastics-supplies/promotions/nalgene-burets/jcr:content/SnippetParsys/textimage_fdaf/image.img.full.high.jpg/1624373382267.jpg"/>
+<img alt="Nalgene Burets" srcset="https://www.thermofisher.com/in/en/syndicated-content/snippets/pfp/pods/laboratory-plastics-supplies/promotions/nalgene-burets/jcr:content/SnippetParsys/textimage_fdaf/image.img.full.high.jpg/1624373382267.jpg,https://www.thermofisher.com/in/en/syndicated-content/snippets/pfp/pods/laboratory-plastics-supplies/promotions/nalgene-burets/jcr:content/SnippetParsys/textimage_fdaf/image.img.320.high.jpg/1624373382267.jpg,https://www.thermofisher.com/in/en/syndicated-content/snippets/pfp/pods/laboratory-plastics-supplies/promotions/nalgene-burets/jcr:content/SnippetParsys/textimage_fdaf/image.img.480.high.jpg/1624373382267.jpg,https://www.thermofisher.com/in/en/syndicated-content/snippets/pfp/pods/laboratory-plastics-supplies/promotions/nalgene-burets/jcr:content/SnippetParsys/textimage_fdaf/image.img.320.medium.jpg/1624373382267.jpg,https://www.thermofisher.com/in/en/syndicated-content/snippets/pfp/pods/laboratory-plastics-supplies/promotions/nalgene-burets/jcr:content/SnippetParsys/textimage_fdaf/image.img.620.high.jpg/1624373382267.jpg,https://www.thermofisher.com/in/en/syndicated-content/snippets/pfp/pods/laboratory-plastics-supplies/promotions/nalgene-burets/jcr:content/SnippetParsys/textimage_fdaf/image.img.320.low.jpg/1624373382267.jpg,https://www.thermofisher.com/in/en/syndicated-content/snippets/pfp/pods/laboratory-plastics-supplies/promotions/nalgene-burets/jcr:content/SnippetParsys/textimage_fdaf/image.img.480.medium.jpg/1624373382267.jpg" title="Nalgene Burets"/>
+</picture>
+</div>
+
+
+</a>
+</div>
+<div class="seo-event-text" data-seo-element="description" data-seo-schema="">
+</div>
+<div class="clearfix"></div>
+<h3 aria-level="2" data-uw-rm-heading="level" role="heading"><a href="/in/en/home/life-science/lab-plasticware-supplies/reusable-plasticware/burets.html" target="_blank">Learn More About Nalgene Burets</a></h3>
+</div></div></div><div class="offers-wrapper"><div class="dynamic-offer" id="tf-pdp-1"></div></div></div></div><div class="pdp-nav-container gen-ai-container" id="smartSearchAssistant"><smart-search-web-component proxy-url="" show-smart-search-navbar-func="navbarCallbackFunc" sku="3645-2550"></smart-search-web-component></div><div class="pdp-nav-container pdp-recommendations" id="recommendations"></div><div class="pdp-nav-container" id="documents"><h2>Documents &amp; Downloads</h2><div class="pdp-certificates" id="certificates"><h3>Certificates</h3><div class="pdp-certificates-search"><div class="pdp-certificates-search__label">Search by lot number or partial lot number</div><div class="pdp-certificates-search__inputs"><div class="pdp-certificates-search__container"><core-search class="hydrated" placeholder="Search by lot number or partial lot number" value=""></core-search></div><core-button arialabel="" class="hydrated" href="" type="button" variant="information"><span slot="content">Search</span></core-button></div></div><div class="pdp-certificates-lists-container"><div class="pdp-certificates-lists"></div><div class="pdp-certificates-count">0 results displayed, search above for a specific certificate </div></div><div class="pdp-certificates-link"><a href="/in/en/home/technical-resources/contact-us.3645-2550.html?supportType=TS&amp;erpType=Global_E1">Request a Certificate</a></div></div><div class="pdp-other-docs"><div class="pdp-other-docs__title"><h3>Product Information</h3></div><core-accordion class="hydrated"><core-accordion-item class="pdp-other-docs__accordion-item hydrated" label="Manuals" open="" size="large"><div slot="content"><div><div class="pdp-other-docs__link"><div class="pdp-other-docs__asset"><a href="https://assets.thermofisher.com/TFS-Assets/LCD/manuals/Nalgene-Self-Zeroing-Buret-Kit-EN-8-0403-02-0211.pdf" rel="noopener noreferrer" target="_blank"><span class="pdp-other-docs__asset-icon icon-24-document-mono"></span><span class="pdp-other-docs__asset-desc">Nalgene Self-Zeroing Buret Kit Package Insert</span></a></div></div></div></div></core-accordion-item></core-accordion></div></div><div class="pdp-nav-container pdp-other-recommendations" id="otherRecommendations"></div></div></div></div></div>
+
+
+<footer id="tf-global-footer" style="display: block;">
+<div class="globalFooter" data-aem-syndication-info="(in:en-in:anonymous:https-tf)" data-aem-syndication-timestamp="globalHeader: Fri, 28 Mar 2025 12:58:13 GMT" data-analytics-section="header" data-app-env="prod" data-env="prod" data-hash="786645072d6e34" data-hostname="www.thermofisher.com" data-optional-selectors="inlineCss,lazyLoad,globalRoute" data-orig="tfpt-header-footer" data-site="tf" data-version="5.1.4" data-x-host="www.thermofisher.com">
+<!-- ID:  acd2489e-d088-45ad-adf6-488e2ac72927 -->
+<!-- Home metadata: ipac/en/in/home/content.json -->
+<!-- Meganav metadata: ipac/en/in/header/meganav/content.json -->
+<!-- Focus Areas metadata: all/en/focusAreas/content.json -->
+<!-- GLOBAL NGINX ROUTE -->
+<!-- STATIC ROUTE BASE: /store/global-header-footer-static -->
+<!-- ENV TYPE: prod -->
+<!-- Include Header/Footer Resources Start of Footer -->
+<!-- performance-begin -->
+<!-- performance-begin -->
+
+<!-- Debug: path: /app/resources/tf/js/dist -->
+
+
+<!-- add css class if scmscfgUser -->
+<div class="footer">
+<div class="footer-menu">
+<div class="footer-menu-container">
+<div class="footer-menu-col pragma-toggle-component" id="footer-menu-category-1">
+<div class="footer-menu-label pragma-toggle" data-analytics-container="Ordering" data-analytics-section="footer" data-toggle="#footer-menu-category-1" data-toggle-classes="open" data-upgraded=",PragmaToggle">
+			Ordering
+			<span class="icon">
+
+
+</span>
+</div>
+<ul>
+<li>
+<a data-analytics-container="Ordering" data-analytics-section="footer" data-analytics-text="Quick Order" data-uw-rm-kbnav="click" href="/store/v2/quick-order" id="footer-link-1-1" onclick="">Quick Order
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Ordering" data-analytics-section="footer" data-analytics-text="eProcurement" data-uw-rm-kbnav="click" href="/in/en/home/digital-solutions/ecommerce/b2b.html" id="footer-link-1-2" onclick="">eProcurement
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Ordering" data-analytics-section="footer" data-analytics-text="Supply Center" data-uw-rm-kbnav="click" href="/in/en/home/products-and-services/supply-center.html" id="footer-link-1-3" onclick="">Supply Center
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Ordering" data-analytics-section="footer" data-analytics-text="Order Status" data-uw-rm-kbnav="click" href="/store/orders/solu" id="footer-link-1-4" onclick="">Order Status
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Ordering" data-analytics-section="footer" data-analytics-text="Chemicals" data-uw-rm-kbnav="click" href="https://www.thermofisher.in/chemicals/" id="footer-link-1-6" onclick="">Chemicals
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Ordering" data-analytics-section="footer" data-analytics-text="India Mobile App" data-uw-rm-kbnav="click" href="https://mapac.thermofisher.com/home" id="footer-link-1-7" onclick="">India Mobile App
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Ordering" data-analytics-section="footer" data-analytics-text="Government eMarketplace" data-uw-rm-kbnav="click" href="/in/en/home/global/forms/gem-ipac.html" id="footer-link-1-8" onclick="">Government eMarketplace
+							<span></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="footer-menu-col pragma-toggle-component" id="footer-menu-category-2">
+<div class="footer-menu-label pragma-toggle" data-analytics-container="Support" data-analytics-section="footer" data-toggle="#footer-menu-category-2" data-toggle-classes="open" data-upgraded=",PragmaToggle">
+			Support
+			<span class="icon">
+
+
+</span>
+</div>
+<ul>
+<li>
+<a data-analytics-container="Support" data-analytics-section="footer" data-analytics-text="Order Support" data-uw-rm-kbnav="click" href="/in/en/home/global/forms/contact-us.html" id="footer-link-2-1" onclick="">Order Support
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Support" data-analytics-section="footer" data-analytics-text="Training" data-uw-rm-kbnav="click" href="/in/en/home/products-and-services/services/training-services.html" id="footer-link-2-2" onclick="">Training
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Support" data-analytics-section="footer" data-analytics-text="Contact Us" data-uw-rm-kbnav="click" href="/in/en/home/global/forms/contact-us.html" id="footer-link-2-3" onclick="">Contact Us
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Support" data-analytics-section="footer" data-analytics-text="Report a Site Issue" data-uw-rm-kbnav="click" href="javascript:KAMPYLE_ONSITE_SDK.showForm(29308);void(0);" id="footer-link-2-4" onclick="">Report a Site Issue
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Support" data-analytics-section="footer" data-analytics-text="Instrument Management" data-uw-rm-kbnav="click" href="/in/en/home/products-and-services/services/instrument-qualification-services/instruments-and-services-portal.html" id="footer-link-2-5" onclick="">Instrument Management
+							<span></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="footer-menu-col pragma-toggle-component" id="footer-menu-category-3">
+<div class="footer-menu-label pragma-toggle" data-analytics-container="Resources" data-analytics-section="footer" data-toggle="#footer-menu-category-3" data-toggle-classes="open" data-upgraded=",PragmaToggle">
+			Resources
+			<span class="icon">
+
+
+</span>
+</div>
+<ul>
+<li>
+<a data-analytics-container="Resources" data-analytics-section="footer" data-analytics-text="Product Selection Guides" data-uw-rm-kbnav="click" href="/in/en/home/product-selection-guides-and-tools.html" id="footer-link-3-1" onclick="">Product Selection Guides
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Resources" data-analytics-section="footer" data-analytics-text="Mobile &amp; Desktop Apps" data-uw-rm-kbnav="click" href="/in/en/home/life-science/lab-data-management-analysis-software/lab-apps.html" id="footer-link-3-2" onclick="">Mobile &amp; Desktop Apps
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Resources" data-analytics-section="footer" data-analytics-text="Webinars" data-uw-rm-kbnav="click" href="/in/en/home/support/webinars.html" id="footer-link-3-3" onclick="">Webinars
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Resources" data-analytics-section="footer" data-analytics-text="Blog " data-uw-rm-kbnav="click" href="/blog/" id="footer-link-3-4" onclick="">Blog 
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Resources" data-analytics-section="footer" data-analytics-text="Social Media" data-uw-rm-kbnav="click" href="/content/lifetech/global/en/home/communities-social/socialhub.html" id="footer-link-3-5" onclick="">Social Media
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Resources" data-analytics-section="footer" data-analytics-text="New Products" data-uw-rm-kbnav="click" href="/in/en/home/order/new-products.html" id="footer-link-3-6" onclick="">New Products
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Resources" data-analytics-section="footer" data-analytics-text="Promotions" data-uw-rm-kbnav="click" href="/content/lifetech/global/en/home/products-and-services/promotions.html" id="footer-link-3-7" onclick="">Promotions
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Resources" data-analytics-section="footer" data-analytics-text="Shared Lists" data-uw-rm-kbnav="click" href="/auth/initiate" id="footer-link-3-8" onclick="">Shared Lists
+							<span></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="footer-menu-col pragma-toggle-component" id="footer-menu-category-4">
+<div class="footer-menu-label pragma-toggle" data-analytics-container="About Thermo Fisher" data-analytics-section="footer" data-toggle="#footer-menu-category-4" data-toggle-classes="open" data-upgraded=",PragmaToggle">
+			About Thermo Fisher
+			<span class="icon">
+
+
+</span>
+</div>
+<ul>
+<li>
+<a data-analytics-container="About Thermo Fisher" data-analytics-section="footer" data-analytics-text="About Us" data-uw-rm-kbnav="click" href="https://corporate.thermofisher.com/en/home.html" id="footer-link-4-1" onclick="">About Us
+								<img alt="" data-uw-rm-alt="MC" data-uw-rm-alt-original="About Us" role="presentation" src="/store/global-header-footer-static/global/svg/external-link-bold.svg"/>
+<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="About Thermo Fisher" data-analytics-section="footer" data-analytics-text="Careers" data-uw-rm-kbnav="click" href="https://jobs.thermofisher.com/global/en" id="footer-link-4-2" onclick="">Careers
+								<img alt="" data-uw-rm-alt="MC" data-uw-rm-alt-original="Careers" role="presentation" src="/store/global-header-footer-static/global/svg/external-link-bold.svg"/>
+<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="About Thermo Fisher" data-analytics-section="footer" data-analytics-text="Investors" data-uw-rm-kbnav="click" href="http://ir.thermofisher.com/investors/Investor-Overview/default.aspx" id="footer-link-4-3" onclick="">Investors
+								<img alt="" data-uw-rm-alt="MC" data-uw-rm-alt-original="Investors" role="presentation" src="/store/global-header-footer-static/global/svg/external-link-bold.svg"/>
+<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="About Thermo Fisher" data-analytics-section="footer" data-analytics-text="News" data-uw-rm-kbnav="click" href="https://thermofisher.mediaroom.com" id="footer-link-4-4" onclick="">News
+								<img alt="" data-uw-rm-alt="MC" data-uw-rm-alt-original="News" role="presentation" src="/store/global-header-footer-static/global/svg/external-link-bold.svg"/>
+<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="About Thermo Fisher" data-analytics-section="footer" data-analytics-text="Social Responsibility" data-uw-rm-kbnav="click" href="http://corporate.thermofisher.com/en/responsibility.html" id="footer-link-4-5" onclick="">Social Responsibility
+								<img alt="" data-uw-rm-alt="MC" data-uw-rm-alt-original="Social Responsibility" role="presentation" src="/store/global-header-footer-static/global/svg/external-link-bold.svg"/>
+<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="About Thermo Fisher" data-analytics-section="footer" data-analytics-text="Trademarks" data-uw-rm-kbnav="click" href="/in/en/home/global/trademark-information.html" id="footer-link-4-6" onclick="">Trademarks
+							<span></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="footer-menu-col pragma-toggle-component" id="footer-menu-category-5">
+<div class="footer-menu-label pragma-toggle" data-analytics-container="Our Portfolio" data-analytics-section="footer" data-toggle="#footer-menu-category-5" data-toggle-classes="open" data-upgraded=",PragmaToggle">
+			Our Portfolio
+			<span class="icon">
+
+
+</span>
+</div>
+<ul>
+<li>
+<a data-analytics-container="Our Portfolio" data-analytics-section="footer" data-analytics-text="Thermo Scientific" data-uw-rm-kbnav="click" href="/in/en/home/brands/thermo-scientific.html" id="footer-link-5-1" onclick="">Thermo Scientific
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Our Portfolio" data-analytics-section="footer" data-analytics-text="Applied Biosystems" data-uw-rm-kbnav="click" href="/in/en/home/brands/applied-biosystems.html" id="footer-link-5-2" onclick="">Applied Biosystems
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Our Portfolio" data-analytics-section="footer" data-analytics-text="Invitrogen" data-uw-rm-kbnav="click" href="/in/en/home/brands/invitrogen.html" id="footer-link-5-3" onclick="">Invitrogen
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Our Portfolio" data-analytics-section="footer" data-analytics-text="Gibco" data-uw-rm-kbnav="click" href="/in/en/home/brands/gibco.html" id="footer-link-5-4" onclick="">Gibco
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Our Portfolio" data-analytics-section="footer" data-analytics-text="Ion Torrent" data-uw-rm-kbnav="click" href="/in/en/home/brands/ion-torrent.html" id="footer-link-5-5" onclick="">Ion Torrent
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Our Portfolio" data-analytics-section="footer" data-analytics-text="Fisher Scientific" data-uw-rm-kbnav="click" href="/in/en/home/brands/fisher-scientific.html" id="footer-link-5-6" onclick="">Fisher Scientific
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Our Portfolio" data-analytics-section="footer" data-analytics-text="Unity Lab Services" data-uw-rm-kbnav="click" href="/in/en/home/brands/unity-lab-services.html" id="footer-link-5-7" onclick="">Unity Lab Services
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Our Portfolio" data-analytics-section="footer" data-analytics-text="Patheon" data-uw-rm-kbnav="click" href="/in/en/home/brands/patheon.html" id="footer-link-5-8" onclick="">Patheon
+							<span></span>
+</a>
+</li>
+<li>
+<a data-analytics-container="Our Portfolio" data-analytics-section="footer" data-analytics-text="PPD" data-uw-rm-kbnav="click" href="/in/en/home/brands/ppd.html" id="footer-link-5-9" onclick="">PPD
+							<span></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-legal">
+<div class="footer-legal-container">
+<div class="footer-legal-link">
+<div class="footer-legal-logo">
+
+</div>
+<div class="footer-legal-list">
+<ul class="footer-legal-list">
+<li class="">
+<a data-analytics-container="legal" data-analytics-section="footer" data-analytics-text="Terms &amp; Conditions" href="/in/en/home/global/terms-and-conditions.html" id="hfTermsOfServiceLink">Terms &amp; Conditions</a>
+</li>
+<li class="">
+<a data-analytics-container="legal" data-analytics-section="footer" data-analytics-text="Privacy Policy" href="/in/en/home/global/privacy-policy.html" id="hfPrivacyPolicyLink">Privacy Policy</a>
+</li>
+<li class="">
+<a data-analytics-container="legal" data-analytics-section="footer" data-analytics-text="Price &amp; Freight Policy" href="/in/en/home/global/online-pricing-policy.html" id="hfOnlinePricePolicyLink">Price &amp; Freight Policy</a>
+</li>
+<li>
+<div aria-label="Open Cookie Preferences Modal" class="truste_caIcon_display" consent="undefined" id="teconsent" role="complementary"><a aria-haspopup="dialog" aria-label="Cookie Preferences, opens a dedicated popup modal window" class="truste_cursor_pointer" data-uw-rm-lang="false" id="icon-id00355246677758807" lang="en" role="link" tabindex="0">Cookie Preferences</a></div>
+<div id="consent_blackbar"><div data-uw-cer-popup-wrapper="" id="truste-consent-track" style="display: block; opacity: 1;"> <div id="trustarc-banner-overlay"></div> <div class="truste-consent-track-class"> <div class="truste-banner" id="truste-consent-content"> <div class="flex-container"> <div class="mainHeader consentHeader"> <p id="ta-title"><span>Your choices regarding cookies on this site</span></p> </div> <div class="text-content"> <div class="truste-messageColumn" id="truste-consent-text">We and our affiliates and vendors use cookies and similar technologies to operate our sites, recognize visitors to our sites, provide secure log-in, collect statistics to optimize site functionality, and deliver content tailored to your interests. Click Accept All to accept all cookies and go directly to the site, or click on Manage Settings to see detailed descriptions of the types of cookies and choose whether to accept certain cookies while on the site.                       </div> </div> <div class="truste-buttonsColumn" id="truste-consent-buttons"> <div class="left">  </div> <div class="right">  </div> </div> </div> <div style="clear:both;"></div> </div> </div></div></div>
+</li>
+</ul>
+<div class="all-rights">© 2006-2025 Thermo Fisher Scientific Inc. All rights reserved. All trademarks are the property of Thermo Fisher Scientific and its subsidiaries unless otherwise specified.</div>
+</div>
+
+<div class="footer-legal-country">
+<div class="country-flag">
+<img alt="" class="country-flag-img" data-uw-rm-alt="MC" data-uw-rm-alt-original="india flag icon" data-uw-rm-ima-original="India flag icon" role="presentation" src="https:////www.thermofisher.com/store/global-header-footer-static/global/images/flags/in.gif"/>
+</div>
+<div class="country-name">India</div>
+</div>
+</div>
+<!-- LANGUAGE SELECTOR  -->
+
+</div>
+</div>
+
+
+<!-- START: Hides the close button for messaging bar promos -->
+
+<!-- STOP: Hides the close button for messaging bar promos -->
+
+</div>
+<!-- Include Header/Footer Resources End of Footer -->
+<!-- performance-end -->
+<!-- performance-begin -->
+
+
+
+
+
+
+
+<!-- Debug: path: /app/resources/tf/js/dist -->
+
+
+<!-- Include script to display message to the Authenticated users -->
+<div id="landscape-banner">
+<div class="interactoffers">
+<div class="dynamic-offer" data-default-snippet="" data-placement-code="lb" data-placement-type="headerfooter" id="tf-headerfooter-lb">
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+
+<div class="core-tooltip core-tooltip--hidden" style="position: absolute; top: 81px; left: 284px; right: 0px; transform: translate(0px, 112px);"><div class="core-tooltip__arrow-shadow" style="left: 15px; top: -16px; transform: rotate(0deg);"></div><div class="core-tooltip__arrow" style="left: 15px; top: -15px; transform: rotate(0deg);"></div><span class="custom-tooltip" part="core-tooltip__content"><p style="margin: 0px; padding: 0px;">Share catalog number, name or link</p></span></div>
+<img alt="" data-uw-rm-alt="MC" data-uw-rm-alt-original="1x1 image pixel for data collection" role="presentation" src="https://consent-insights-3c23a978f31a.herokuapp.com/api/v1/visits/capture?api_key=CI-3929813243&amp;secret=810274278902470721624405905887912991104270295366493143855663183685375235160482241511078341257235422202822656000&amp;country=in&amp;language=en&amp;visit_id=63784150-dc9e-4e20-a0b0-1461c70bc5ad&amp;ut=NEW&amp;ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F116.0.0.0+Safari%2F537.36&amp;title=Nalgene%E2%84%A2+Self-Zeroing+Buret+Filler+Kit&amp;url=https%3A%2F%2Fwww.thermofisher.com%2Forder%2Fcatalog%2Fproduct%2F3645-2550"/><!-- Google tag (gtag.js) -->
+
+<img alt="" data-uw-rm-alt="MC" data-uw-rm-alt-original="1x1 image pixel for data collection" role="presentation" src="https://consent-insights-3c23a978f31a.herokuapp.com/api/v1/impressions/capture?api_key=CI-3929813243&amp;secret=810274278902470721624405905887912991104270295366493143855663183685375235160482241511078341257235422202822656000&amp;country=in&amp;language=en&amp;visit_id=63784150-dc9e-4e20-a0b0-1461c70bc5ad&amp;ut=NEW&amp;ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F116.0.0.0+Safari%2F537.36&amp;title=Nalgene%E2%84%A2+Self-Zeroing+Buret+Filler+Kit&amp;url=https%3A%2F%2Fwww.thermofisher.com%2Forder%2Fcatalog%2Fproduct%2F3645-2550"/><!-- Yellow Messenger Styles Start -->
+
+<!-- Yellow Messenger Styles End --><div id="ymPluginDivContainerInitial" style="display: block;"> <div class="" id="ym-notification" style="bottom: 67px;"><div style="font-weight: bold;">Thermo Fisher Scientific</div>May I help you?</div> <div class="" id="ymFrameHolder" style="display: none; bottom: 95px;"> <div class="ym-loading-spinner" style="display: none;"> <div class="ym-double-bounce1"></div> <div class="ym-double-bounce2"></div> </div>  </div></div></body></html>

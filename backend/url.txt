@@ -1,0 +1,13 @@
+urls_v1
+us/en/home/industrial/pharma-biopharma/pharma-biopharma-learning-center/pharmaceutical-qa-qc-information/natural-products-traditional-chinese-medicine-information.html
+us/en/home/industrial/pharma-biopharma/biopharmaceutical-analytical-testing/host-cell-protein-analysis.html
+us/en/home/industrial/pharma-biopharma/research-discovery.html
+us/en/home/industrial/pharma-biopharma/drug-discovery-development/adme-tox/gibco-hepatocytes/cryopreserved-hepatocytes/hepatocyte-inventory-characterization.html
+us/en/home/biotech-lab-solutions/biotech-learning-center/podcast-transient-protein-vaccine-development.html
+us/en/home/biotech-lab-solutions/biotech-learning-center/podcast-innovations-Tcell-viral-vector-manufacturing.html
+us/en/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/molecular-cloning/transformation/competent-cell-genotypes-genetic-markers.html
+us/en/home/life-science/cloning/competent-cells-for-transformation/competent-cells-strains/mach1-competent-cells.html
+order/catalog/product/de/de/EN0321
+order/catalog/product/fr/fr/ER1891
+order/catalog/product/es/es/FD1214
+order/catalog/product/fr/fr/ER0521
