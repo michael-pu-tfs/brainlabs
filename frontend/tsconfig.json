@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
+
+// {
+//   "compilerOptions": {
+//     // Enable all strict type-checking options
+//     "strict": true,
+//     "noUnusedLocals": false,
+//     "noUnusedParameters": false,
+//     "skipLibCheck": true, // Optimize checking for third-party libraries
+//     "baseUrl": ".", // Root directory for module resolution
+//     "paths": {
+//       "@/*": ["src/*"] // Aliasing `@/` to `src/`
+//     }
+//   },
+//   // Use 'include' or 'files' to specify specific entry points 
+//   "include": ["src"],
+//   // 'files' can be omitted if explicitly including directories
+//   "references": [
+//     { "path": "./tsconfig.app.json" },
+//     { "path": "./tsconfig.node.json" }
+//   ]
+// }
